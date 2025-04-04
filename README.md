@@ -8,7 +8,7 @@ This project explores **approximate k-nearest neighbors (k-NN)** and **Approxima
 
 The **MNIST dataset** of handwritten digits is used for evaluation, with Euclidean distance as the primary metric. The project is implemented in **C++**.
 
-It was done in 2023 as an assignement in the course "Software Development for Algorithmic Problems" by Panagiotis Chatzimichos and Ioanna Kontemeniotou. 
+It was done in 2023 as an assignement in the course "Software Development for Algorithmic Problems" by Panagiotis Chatzimichos and Ioanna Kontemeniotis. 
 
 ## Repository Structure  
 ```
@@ -42,4 +42,4 @@ For a detailed explanation of the implementation, experiments, and results, plea
 ## Contributors 
 
 • [Panagiotis Chatzimichos](https://github.com/pchatz000)\
-• [Ioanna Kontemeniotou](https://github.com/joannakonte)
+• [Ioanna Kontemeniotis](https://github.com/joannakonte)
